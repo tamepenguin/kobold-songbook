@@ -1,3 +1,6 @@
 [submodule "uke-latex"]
 	path = uke-latex
 	url = https://github.com/tamepenguin/uke-latex.git
+[submodule "dilli-lieder"]
+	path = dilli-lieder
+	url = git@github.com:tamepenguin/dilli-lieder.git
