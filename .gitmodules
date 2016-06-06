@@ -1,0 +1,3 @@
+[submodule "uke-latex"]
+	path = uke-latex
+	url = https://github.com/tamepenguin/uke-latex.git
